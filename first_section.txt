@@ -1,0 +1,16 @@
+### first question - python
+If you need to use library you can use "import" at beginning of code
+example:
+import random
+
+### second question - python
+The type we recived from users is always "string".
+"input" function will always recived string type.
+
+### third question - Git
+In git we can use "branches" that other team mates can work on the same file in different departments (like dev, prod, test etc...).
+In Branch we can work without harm the master file.
+
+### fourth question - SQL
+
+
