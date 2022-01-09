@@ -12,5 +12,7 @@ In git we can use "branches" that other team mates can work on the same file in 
 In Branch we can work without harm the master file.
 
 ### fourth question - SQL
-
+I would use 2 tables name "department" and "Student".
+from both of tables we can use PK(Primary Key) that will be used for
+join table without need to change anything if we will create ONLY one table.
 
